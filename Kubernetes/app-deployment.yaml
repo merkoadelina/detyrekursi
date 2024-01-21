@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: dk
-          image: skerdishehaj/randomnumbergenerator:latest
+          image: merkoadelina/detyrekursi:latest
           imagePullPolicy: Always
           ports:
             - containerPort: 8080
